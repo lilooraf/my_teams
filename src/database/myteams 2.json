@@ -1,0 +1,18 @@
+{
+    "teams": [
+        {"id": "1", "name": "team_a", "description": "a", "channels_id": [], "users_id": ["1"]}
+    ],
+    "channels": [
+    ],
+    "threads": [
+    ],
+    "reply":[
+    ],
+    "messages": [
+        {"id": "1", "sender_id": "1", "recv_id": "2", "date": "24/6/2020", "time": "14-46", "message": "dezc"}
+    ],
+    "users": [
+        {"id": "1", "name": "lol", "connected": "1"},
+        {"id": "2", "name": "ror", "connected": "1"},
+    ]
+}
